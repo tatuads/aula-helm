@@ -1,6 +1,6 @@
 apiVersion: v2
 name: meuprimeirochart
-description: A Helm chart for Kubernetes
+description: Chart Helm meuprimeirochart
 type: application
 version: 0.1.0
 appVersion: "1.16.0"
